@@ -3,6 +3,8 @@
 ## Pages
 - Home
 - Education
+- Social Media & Online Profiles
+- Astronomy
 - Experience
 - Research
 - Publications
