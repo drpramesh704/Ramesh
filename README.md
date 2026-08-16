@@ -10,6 +10,7 @@
 - Projects
 - Activities
 - Presentations
+- Social Media & Online Profiles
 - Professional Development
 - Contact
 
