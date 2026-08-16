@@ -2,7 +2,6 @@
 
 ## Pages
 - Home
-- Astronomy
 - Education
 - Experience
 - Research
@@ -10,7 +9,6 @@
 - Projects
 - Activities
 - Presentations
-- Social Media & Online Profiles
 - Professional Development
 - Contact
 
