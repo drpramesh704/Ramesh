@@ -2,6 +2,7 @@
 
 ## Pages
 - Home
+- Astronomy
 - Education
 - Experience
 - Research
